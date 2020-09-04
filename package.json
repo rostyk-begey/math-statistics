@@ -86,7 +86,7 @@
     "classnames": "latest",
     "jstat": "^1.9.2",
     "materialize-css": "^1.0.0",
-    "papaparse": "^5.1.1",
+    "papaparse": "^5.2.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   }
